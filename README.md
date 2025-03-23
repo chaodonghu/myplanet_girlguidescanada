@@ -1,5 +1,7 @@
 # MyPlanet x Girl Guides Canada Twitter Watson Tone Analyzer App
 
+An application developed for Girl Guides Canada to gather and analyze public sentiment about organizational changes. The tool filters real-time Twitter data based on keywords, hashtags, or handles, using IBM's Watson Tone Analyzer API to assess emotions in tweets.
+
 ## Team Members
 * Dong Hu
 * Harrison Meinert-Rita
